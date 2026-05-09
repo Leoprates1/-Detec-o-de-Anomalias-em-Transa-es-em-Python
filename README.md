@@ -1,4 +1,3 @@
-# -Detec-o-de-Anomalias-em-Transa-es-em-Python
 # 🚀 Desafio DIO – Detecção de Fraudes em Cartões de Crédito
 
 Este projeto faz parte do **bootcamp da DIO** e tem como objetivo aplicar técnicas de **Machine Learning** para detectar fraudes em transações de cartão de crédito.
