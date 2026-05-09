@@ -40,7 +40,4 @@ O notebook está dividido em etapas:
 O dataset utilizado está disponível publicamente:  
 [Credit Card Fraud Detection Dataset](https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv)
 
-## 📌 Como Executar
-1. Clone este repositório:
-   ```bash
  
